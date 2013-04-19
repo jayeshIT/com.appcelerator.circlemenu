@@ -26,7 +26,9 @@ The `CircleMenu` widget allows to create circular menus with even-more-circular 
 
 ## Sample code
 
-```index.xml```
+```
+index.xml
+```
 
 ```
 <Alloy>
@@ -36,7 +38,9 @@ The `CircleMenu` widget allows to create circular menus with even-more-circular 
 </Alloy>
 ```
 
-```index.tss```
+```
+index.tss
+```
 
 ```
 ".container": {
@@ -44,7 +48,9 @@ The `CircleMenu` widget allows to create circular menus with even-more-circular 
 }
 ```
 
-```index.js```
+```
+index.js
+```
 
 ```
 $.index.open();
