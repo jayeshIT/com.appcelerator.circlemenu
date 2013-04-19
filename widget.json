@@ -1,0 +1,13 @@
+{
+	"id": "com.appcelerator.circlemenu",
+	"name": "com.appcelerator.circlemenu",
+	"description" : "",
+	"author": "Davide Cassenti",
+	"version": "0.1",
+	"copyright":"Copyright (c) 2012 Davide Cassenti",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"",
+	"platforms":"android,ios"
+}
